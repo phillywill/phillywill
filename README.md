@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phillywill
-- 👀 I’m interested in html css, etc as a hobby
-- 🌱 I’m currently learning html & CSS..
+- 👀 I’m interested in html css, javascript as a hobby
+- 🌱 I’m currently learning javascript..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me WAJSCHMITT@GMAIL.COM
 
